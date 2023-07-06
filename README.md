@@ -16,6 +16,7 @@
  <p align="center">
  <a href="#sobre-o-projeto">Projeto</a> •
  <a href="#sobre-a-aplicação-">Aplicação</a> • 
+ <a href="#layout">Layout</a> • 
  <a href="#tecnologias-utilizadas">Tecnologias</a> • 
  <a href="#autor-do-código">Autor</a>
 </p>
