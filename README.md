@@ -14,11 +14,10 @@
 </h4>
 <br>
  <p align="center">
- <a href="#projeto">Projeto</a> •
- <a href="#aplicacao">Aplicação</a> • 
- <a href="#imagem">Layout</a> • 
- <a href="#tecnologia">Tecnologias</a> • 
- <a href="#autor">Autor</a>
+ <a href="#sobre-o-projeto">Projeto</a> •
+ <a href="#sobre-a-aplicação">Aplicação</a> • 
+ <a href="#tecnologias-utilizadas">Tecnologias</a> • 
+ <a href="#autor-do-código">Autor</a>
 </p>
 
 
@@ -28,7 +27,7 @@
     O objetivo desse projeto foi desenvolver Portfolio. Com uso de HTML e CSS, foi possível desenvolver esse <strong >Portfolio.</strong>. Para produzir o layout foi utilizado o arquivo figma.fig disponibilizado pela <strong >Cubos Academy</strong> no desafios modúlo 2 - HTML e CSS, onde pude aprimorar e por em prática meus conhecimentos.
 </p>
 
-<a href='#aplicacao'><h2 style="font-family: sans-serif;">Sobre o Aplicação para controle de finanças pessoais:</h2></a>
+<a href='#aplicacao'><h2 style="font-family: sans-serif;">Sobre a Aplicação </h2></a>
 
 <p style="text-align: justify;">
     Trata - se de site em formato de portfolio, na qual o usuário pode tem acesso como a página home, onde se encontra informações do dono do portfolio no caso "Alex Spencer", tendo também páginas de portfolio podermos encontrar alguns projeto realizado pelo mesmo, e finalizando com página de contato.
