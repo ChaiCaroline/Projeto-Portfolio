@@ -1,0 +1,121 @@
+main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.imagem-inicial {
+    display: flex;
+    align-items: flex-end;
+
+    width: 72.266vw;
+
+    height: 600px;
+
+    background-size: 100%;
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
+    background-repeat: no-repeat;
+}
+
+.texto-inicial {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    width: 445px;
+    height: 357px;
+
+    background-color: white;
+}
+
+.texto-inicial h1 {
+    padding-bottom: 53px;
+    padding-left: 27px;
+}
+
+.botao-sobremim {
+    display: flex;
+    align-items: center;
+
+    width: 200px;
+    height: 48px;
+
+    text-decoration: none;
+
+    background-color: #203A4C;
+}
+
+.botao-imagem-sobremim {
+    width: 48px;
+    height: 48px;
+
+    background-image: url(../../assets/icons/down-arrows.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #0000001a;
+}
+
+.botao-restate-sobremim {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 152px;
+    height: 48px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: white;
+}
+
+.botao-sobremim:hover .botao-imagem-sobremim {
+
+    background-image: url(../../assets/icons/down-arrows-branco.png);
+    background-position: center;
+    background-size: 34%;
+}
+
+.botao-sobremim:hover {
+    background-color: #5FB4A2;
+}
+
+#sobre {
+    display: flex;
+    margin-top: 149px;
+
+    width: 72.266vw;
+    height: auto;
+}
+
+#sobre img {
+    width: 35.157vw;
+    height: 39.063vw;
+
+    margin-right: 140px;
+}
+
+.texto-sobre-mim {
+    display: flex;
+    float: right;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+.texto-sobre-mim p {
+    color: rgba(51, 50, 61, 0.8);
+}
+
+.texto-sobre-mim .botao {
+    margin-bottom: 5%;
+    align-self: center;
+}

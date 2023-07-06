@@ -1,0 +1,55 @@
+main {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.slide {
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+    width: 66.2898vw;
+    height: auto;
+    /* height: 32.761vw; */
+}
+
+.slide img {
+    width: 35.157vw;
+    height: auto;
+}
+
+.imagem {
+    margin-right: 8.138vw;
+}
+
+.imagem-segundario {
+    margin-left: 8.138vw;
+}
+
+.texto {
+    display: flex;
+    float: right;
+    flex-direction: column;
+    justify-content: space-between;
+
+    padding: 6.7057vw 0;
+
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+.texto p {
+    color: rgba(51, 50, 61, 0.8);
+}
+
+.slide .botao {
+    width: 11.498vw;
+}
+
+.projetos {
+    margin-top: 110px;
+
+    width: 66.081vw;
+}

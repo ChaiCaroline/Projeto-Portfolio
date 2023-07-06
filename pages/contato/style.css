@@ -1,0 +1,101 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.entre {
+    display: flex;
+    justify-content: space-between;
+    padding: 3vw 0;
+    margin-top: 40px;
+    margin-bottom: 47px;
+
+    width: 72.474vw;
+
+    border-top: 1px solid rgba(51, 50, 61, 0.15);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+.entre h2 {
+    margin-right: 2.84019vw;
+}
+
+.texto-contato {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    margin-left: 8.138vw;
+
+    width: 635px;
+    height: 258px;
+}
+
+.texto-contato p {
+    mix-blend-mode: normal;
+
+    color: rgba(51, 50, 61, 0.8);
+}
+
+.rede-sociais-pequenas img {
+    padding-right: 14px;
+}
+
+.contato {
+    display: flex;
+    justify-content: space-between;
+
+    width: 72.474vw;
+
+    margin-bottom: 109px;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario p {
+    font-weight: 700;
+    font-size: 13px;
+
+    mix-blend-mode: normal;
+    color: rgba(51, 50, 61, 0.8)
+}
+
+input {
+    height: 3.125vw;
+    margin-bottom: 24px;
+    border: 0px;
+    background: rgba(51, 50, 61, 0.1);
+    mix-blend-mode: normal;
+
+    font-size: 16px;
+}
+
+input:focus {
+    font-size: 16px;
+
+    border: 2px solid black;
+}
+
+.mensagem {
+    margin-bottom: 24px;
+    border: 0px;
+
+    background: rgba(51, 50, 61, 0.1);
+    mix-blend-mode: normal;
+}
+
+.botao {
+    background: #203A4C;
+    color: white;
+}
+
+.botao:hover {
+    border: 0px;
+
+    background-color: #5FB4A2;
+}
